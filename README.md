@@ -12,7 +12,7 @@ Altamente motivado, gosto de tomar iniciativa, orientado a resultados, comunicat
 📫 Como entrar em contato comigo? Pelo E-mail: marvin.gall.88@gmail.com
 
 ## 🛠 Habilidades
-Javascript, HTML, CSS <br>
+Javascript, HTML, CSS, Java. <br>
 Banco de dados relacionais: Postgres, MariaDB <br> 
 Banco de dados Não relacionais: Firebase, MongoDB <br>
 Frameworks usados: Spring boot V 3.3.3, Node.js
