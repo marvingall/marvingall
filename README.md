@@ -14,6 +14,6 @@ Altamente motivado, gosto de tomar iniciativa, orientado a resultados, comunicat
 ## 🛠 Habilidades
 Javascript, HTML, CSS, Java. <br>
 Banco de dados relacionais: Postgres, MariaDB <br> 
-Banco de dados Não relacionais: Firebase, MongoDB <br>
+Banco de dados Não relacionais: Firebase <br>
 Frameworks usados: Spring boot V 3.3.3, Node.js
 
